@@ -1,0 +1,35 @@
+1001Menu principal
+1002Ajouter une inscription
+1003Supprimer une inscription
+1004Imprimer les doublettes par shift
+1005Imprimer les doublettes par catégorie
+1006Déplacer une doublette dans un autre shift
+1007Quitter
+2001Date du shift : 
+2002Heure du shift : 
+2003Numéro de matricule : 
+2004Recommencer ? (1. Oui | 0. Non) : 
+2005Choix : 
+2006Entrez la date du shift choisi (format AAAAMMJJ) : 
+2007Entrez l'heure du shift choisi (format HHMM) : 
+2008La doublette a bien été enregistrée !
+2009La doublette a bien été désinscrite !
+2010La doublette a bien été déplacée !
+2011- Doublette numéro 
+2012Nombre de places libres restantes : 
+3001Liste des membres de la FSBB : 
+3002Catégorie de la doublette : 
+4001- Catégorie numéro 
+5001Erreur - ce choix n'est pas disponible !
+5002Erreur - ce membre est inconnu...
+5003Erreur - ce membre est inscrit dans une autre doublette !
+5004Erreur - tous les shifts sont complets !
+5005Erreur - aucun shift propose !
+5006Erreur - ce shift n'existe pas !
+5007Erreur - cette doublette n'a pas été trouvée...
+5008Erreur - plus de place mémoire disponible.
+5009Erreur - ouverture du fichier impossible.
+5010Erreur - ce membre a déjà été choisi.
+5011Erreur - ce shift n'a pas de doublette.
+5012Erreur - cette catégorie est vide.
+5013Erreur - ces shifts sont identiques.

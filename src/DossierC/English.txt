@@ -1,0 +1,35 @@
+1001Main menu
+1002Add an entry
+1003Remove an entry
+1004Print doublets per shift
+1005Print doublets per category
+1006Move a doublet to another shift
+1007Quit
+2001Date of the shift : 
+2002Hour of the shift : 
+2003Registering number : 
+2004Retry? (1. Yes | 0. No) : 
+2005Choice : 
+2006Submit the chosen shift's date (format AAAAMMJJ) : 
+2007Submit the chosen shif's hour (format HHMM) : 
+2008The doublet has successfully been registered!
+2009The doublet has successfully been unregistered!
+2010The doublet has successfully been moved!
+2011- Doublet number 
+2012Number of free places left : 
+3001List of FSBB's members : 
+3002Doublet's category : 
+4001- Category number 
+5001Error - this choice is unavailable!
+5002Error - this is an unknown member...
+5003Error - this member is already registered in another doublet!
+5004Error - all shifts are full!
+5005Error - no shift proposed!
+5006Error - this shift does not exist!
+5007Error - this doublet hasn't been found...
+5008Error - no more memory available.
+5009Error - impossible to open the file.
+5010Error - this member has already been chosen.
+5011Error - this shift has no doublet.
+5012Error - this category is empty.
+5013Error - those shifts are the same.

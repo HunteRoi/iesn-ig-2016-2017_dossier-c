@@ -1,0 +1,35 @@
+1001Hoofdmenu
+1002Een registratie voegen
+1003Een registratie verwijderen
+1004De ploegen per dienst drukken
+1005De ploegen per rubriek drukken
+1006Een ploeg naar een andere dienst verplaatsen
+1007Stop
+2001Datum van de dienst : 
+2002Uur van de dienst : 
+2003Rol nummer : 
+2004Nog een keer ? (1. Ja | 0. Nee): 
+2005Keuze : 
+2006Voer de datum voor de gekozen dienst (formaat AAAAMMJJ) : 
+2007Voer het uur voor de gekozen dienst (formaat HHMM) : 
+2008De ploeg was goed geregistreed !
+2009De ploeg was goed verwijderd !
+2010De ploeg was goed verhuisd !
+2011- Ploeg nummer 
+2012Nummer van de resterende vrije plaatsen : 
+3001Lijst van de leden van de FSBB : 
+3002Rubriek van de ploeg : 
+4001- Rubriek nummer 
+5001Fout - dat keuze is niet beschikbaar !
+5002Fout - dat lid is onbekend...
+5003Fout - dat lid is geregistreed in een andere dienst !
+5004Fout - alle diensten zijn voltooid!
+5005Fout - geen dienst voorgestelde !
+5006Fout - dat dienst bestaant niet !
+5007Fout - dat ploeg werd niet gevonden...
+5008Fout - geen geheugen plaats beschikbaar.
+5009Fout - opening van het bestand is onmogelijk.
+5010Fout - dat lid werd erder gekozen.
+5011Fout - dat dienst heeft geen ploeg.
+5012Fout - dat rubriek is leeg.
+5013Fout - deze diensten zijn identiek.
